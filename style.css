@@ -34,6 +34,9 @@ ul>.view{
 .oneCnt{
 	text-align: center;
 }
+.oneCnt .last{
+	margin-bottom: 20px;
+}
 .oneCnt>img{
 	width:120px;
 	height:120px;
